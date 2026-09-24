@@ -11,9 +11,9 @@ title                    : "Yuanyuan Feng (冯园媛), Ph.D."
 title_separator          : "-"
 name                     : &name "Yuanyuan Feng"
 description              : &description "HCI & data privacy researcher"
-url                      : "https://YYinBurgh.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://YuanyuanFengResearch.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : YYinBurgh/YYinBurgh.github.io
+repository               : YuanyuanFengResearch/YuanyuanFengResearch.github.io
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
