@@ -28,7 +28,7 @@ My [Research](/research/) asks how people can benefit from data-intensive comput
 
 - **(July 2025)** Our <a href="https://petsymposium.org/popets/2025/popets-2025-0162.php" target="_blank">Systematization of Knowledge (SoK) paper</a> analyzing the landscape of usability studies in differential privacy is accepted by the Proceedings on Privacy Enhancing Technologies Symposium (PoPETS). The amazing doctoral student and first author Onyinye Dibia presents this work at PETS 2025 in Washington DC.
 
-- **(August 2024)** My <a href="https://www.jmir.org/2024/1/e57309" target="_blank"> first-authored paper</a>, titled **"Contextual acceptance of COVID-19 mitigation mobile apps in the United States: Mixed methods survey study on postpandemic data privacy"**, has been publihsed in the Journal of Medical Internet Research!
+- **(August 2024)** My <a href="https://www.jmir.org/2024/1/e57309" target="_blank"> first-authored paper</a>, titled **"Contextual acceptance of COVID-19 mitigation mobile apps in the United States: Mixed methods survey study on postpandemic data privacy"**, has been published in the Journal of Medical Internet Research!
 
 - **(August 2024)** I'm super excited to share <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2336550" target="_blank">our NSF SaTC award</a> with my Co-PI Dr. Joe Near -- **A Novel Mechanism for Effective and Accountable Communication of Differential Privacy through Multi-Stakeholder Research**. We hope our research can facilitate the broader adoption of differential privacy!
 
